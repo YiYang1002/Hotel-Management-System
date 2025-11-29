@@ -7,7 +7,7 @@ Employee ID
 4. 1103 (House Keeping Staff)
 
 
-Room
+Room Type
 1)single (RM 119)
 101, 102, 103, 104
 
