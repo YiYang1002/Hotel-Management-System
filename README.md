@@ -8,6 +8,7 @@ Employee ID
 
 
 Room Type
+
 1)single (RM 119)
 101, 102, 103, 104
 
